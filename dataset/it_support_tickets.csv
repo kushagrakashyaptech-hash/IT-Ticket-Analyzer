@@ -1,0 +1,6 @@
+Ticket_ID,Department,Priority,Created_Time,Resolved_Time,Issue_Type,Assigned_Team,Status,SLA_Breached
+101,HR,High,2025-01-10 09:30,2025-01-10 14:00,Login Issue,Team A,Closed,No
+102,Finance,Medium,2025-01-11 10:15,2025-01-11 18:30,Software Error,Team B,Closed,Yes
+103,Admin,Low,2025-01-12 11:00,2025-01-12 13:00,Printer Issue,Team C,Closed,No
+104,IT,High,2025-01-13 08:45,2025-01-13 20:00,Network Down,Team A,Closed,Yes
+105,HR,Medium,2025-01-14 14:20,2025-01-14 17:00,Password Reset,Team B,Closed,No
