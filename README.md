@@ -104,4 +104,4 @@ Built an IT Support Ticket Analyzer using Python, Pandas, and Machine Learning t
 
 ## 👨‍💻 Author
 
-Your Name
+Kushagra Kashyap
